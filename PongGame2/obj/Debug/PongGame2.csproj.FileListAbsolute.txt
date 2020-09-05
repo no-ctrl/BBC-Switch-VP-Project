@@ -1,0 +1,10 @@
+C:\Users\Filip\source\repos\PongGame2\PongGame2\bin\Debug\PongGame2.exe.config
+C:\Users\Filip\source\repos\PongGame2\PongGame2\bin\Debug\PongGame2.exe
+C:\Users\Filip\source\repos\PongGame2\PongGame2\bin\Debug\PongGame2.pdb
+C:\Users\Filip\source\repos\PongGame2\PongGame2\obj\Debug\PongGame2.csprojAssemblyReference.cache
+C:\Users\Filip\source\repos\PongGame2\PongGame2\obj\Debug\PongGame2.Form1.resources
+C:\Users\Filip\source\repos\PongGame2\PongGame2\obj\Debug\PongGame2.Properties.Resources.resources
+C:\Users\Filip\source\repos\PongGame2\PongGame2\obj\Debug\PongGame2.csproj.GenerateResource.cache
+C:\Users\Filip\source\repos\PongGame2\PongGame2\obj\Debug\PongGame2.csproj.CoreCompileInputs.cache
+C:\Users\Filip\source\repos\PongGame2\PongGame2\obj\Debug\PongGame2.exe
+C:\Users\Filip\source\repos\PongGame2\PongGame2\obj\Debug\PongGame2.pdb

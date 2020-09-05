@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PongGame2.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="score_lbl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Your Score:0 
+Game over
+Press R to Restart
+Press Esc to Exit</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
