@@ -33,8 +33,13 @@
 - Копчето `X` служи за прикажување и сокривање на описот на  команди во играта.
 
 
-### Слики од играта и gameplay
-
+### Gameplay и слики од играта
+[![BBC Switch Gameplay](https://yt-embed.herokuapp.com/embed?v=UKuxPG8mccg)](https://www.youtube.com/watch?v=UKuxPG8mccg "BBC Switch Gameplay")
+### gameplay video
+####
+![слика 1](gameplay2.png)
+![слика 2](gameplay5.png)
+![слика 3](gameplay6.png)
 ### Детали за решението
 Kористени компоненти label, richbox, timer, panel, pictureboxes.
 ###
