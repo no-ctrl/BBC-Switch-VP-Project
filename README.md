@@ -4,7 +4,7 @@
 
 ### Инспирација
 
-Во оваа проектна задача разработувам игра чии функционалности се инспирирани од игрите [Brick breaker](https://en.wikipedia.org/wiki/Brick_Breaker) и [Color Switch](https://color-switch.fandom.com/wiki/Color_Switch).
+Во оваа проектна задача изработив игра чии функционалности се инспирирани од игрите [Brick breaker](https://en.wikipedia.org/wiki/Brick_Breaker) и [Color Switch](https://color-switch.fandom.com/wiki/Color_Switch).
 ### Упатство за играње и корисничко сценарио
 Играчот користи рекет кој треба да ја погоди топката (коцка) со која ги крши циглите (правоаголници), освен што корисникот треба да ја погоди топката тој треба и да ја изедначи бојата на рекетот со бојата на топката. 
 ###
