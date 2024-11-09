@@ -1,6 +1,6 @@
 # `BBC Switch`  проект по предметот [визуелно програмирање](https://github.com/finki-mk/VP)
 
-## изработил: ``Филип Цоњковски`` индекс: ``151227``
+
 
 ### Инспирација
 
@@ -86,4 +86,3 @@ private async  Task  generateNewBlock(int top, int left)
 - одбиена топка од цигла со различна боја
 
 
- ##### [Доколку имате прашања  filip.conjkovski[at]students.finki.ukim.mk](mailto:filip.conjkovski@students.finki.ukim.mk) 
